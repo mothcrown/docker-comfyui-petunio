@@ -1,4 +1,4 @@
-# docker-comfy-ui
+# docker-comfyui-petunio
 
 ### Descripción
 Contenedor docker con [ComfyUI](https://github.com/comfyanonymous/ComfyUI) y [Stable Diffusion XL](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) para usar con el asistente [Petunio](https://github.com/mothcrown/Petunio).
